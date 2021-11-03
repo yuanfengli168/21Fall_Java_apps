@@ -14,3 +14,8 @@
 
 - Deploying Java-Maven Application with Jenkins CI/CD Tool: [links](https://docs.google.com/document/d/1KQwPLDfIhPH6poyEzxWbOUnxAwtJGtaLVX-cwfaQrCo/edit#)
   - review videos: for class01: [youtube](https://youtu.be/y5lS-_8H43I)
+
+# Planning
+
+- 11032021：
+  12/17 号之前能够写道 267 页之前就行。(chapter 5, run parrallel 完成就可以了)从今天 11/3 号开始还有 6 周半，每周进行 40 页即可。
